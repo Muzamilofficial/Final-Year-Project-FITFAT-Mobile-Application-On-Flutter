@@ -1,5 +1,5 @@
 # Final-Year-Project-FITFAT-Mobile-Application-On-Flutter
-I develop this project in my Final Year Project on Flutter
+I develop this project in my Final Year Project on Flutter with payment option of Jaaz Cash Integrated
 
 ![15](https://github.com/Muzamilofficial/Final-Year-Project-FITFAT-Mobile-Application-On-Flutter/assets/113015136/07e8f80f-f17d-4bce-9782-8b3070757d5f)
 ![14](https://github.com/Muzamilofficial/Final-Year-Project-FITFAT-Mobile-Application-On-Flutter/assets/113015136/05ccae5b-7c98-4f35-83b6-0f9ceb182de2)
